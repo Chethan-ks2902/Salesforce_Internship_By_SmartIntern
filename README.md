@@ -28,6 +28,11 @@ Case type and Case Status Configuration:
 ![image](https://github.com/user-attachments/assets/db6133a5-bc85-4ec6-9c72-703c37d8f06a)
 
 
+Create a Lightning App of name EduConsultPro
+![image](https://github.com/user-attachments/assets/2f003daf-f99a-4466-9758-41162a099445)
+![image](https://github.com/user-attachments/assets/f35b100e-0872-424d-9229-44dafbe81a14)
+
+
 
 
 
