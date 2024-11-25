@@ -23,4 +23,11 @@ Registration Object
 ![image](https://github.com/user-attachments/assets/d24f29be-764a-4b4c-8042-f90d5d5566ec)
 
 
+Case type and Case Status Configuration:
+![image](https://github.com/user-attachments/assets/9b9ac683-080a-443f-a340-e150693698d3)
+![image](https://github.com/user-attachments/assets/db6133a5-bc85-4ec6-9c72-703c37d8f06a)
+
+
+
+
 
