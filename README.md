@@ -7,14 +7,17 @@ Course Object :
 ![image](https://github.com/user-attachments/assets/7190c781-409d-436d-8072-98e4bdde1cb0)
 
 Consultant Object:
-![image](https://github.com/user-attachments/assets/1019cd68-bd9e-48f5-b07b-6ea85ff5a99b)
+![image](https://github.com/user-attachments/assets/5798a2ea-cb8a-4744-b51a-f2b9bc452538)
+
 
 
 Student Object:
-![image](https://github.com/user-attachments/assets/18eba2e1-3c35-4de5-a8c6-2f1cc89d4008)
+![image](https://github.com/user-attachments/assets/368ba24a-5fc3-41ed-b31a-8ae1a095f9da)
+
 
 
 
 Appointment Object:
-![image](https://github.com/user-attachments/assets/f94a3548-e698-463f-a26a-08642e061a31)
+![image](https://github.com/user-attachments/assets/56e6671a-c7cd-4a0d-92ea-ac43041b7c83)
+
 
